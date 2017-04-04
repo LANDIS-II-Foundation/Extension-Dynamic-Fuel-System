@@ -66,6 +66,7 @@ namespace Landis.Extension.DynamicFuels
             fuelCoefs = parameters.FuelCoefficients;
             hardwoodMax = parameters.HardwoodMax;
             deadFirMaxAge = parameters.DeadFirMaxAge;
+            MetadataHandler.InitializeMetadata(mapNameTemplate, pctConiferMapNameTemplate, pctDeadFirMapNameTemplate);
         }
 
         //---------------------------------------------------------------------
