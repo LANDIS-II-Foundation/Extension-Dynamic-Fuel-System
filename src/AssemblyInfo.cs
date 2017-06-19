@@ -4,7 +4,7 @@
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Landis.Extension.DynamicFuels")]
-[assembly: AssemblyDescription("Dyamic Fuels Extension")]
+[assembly: AssemblyDescription("Dynamic Fuel System Extension")]
 
 // Version information for an assembly consists of the following four values:
 //

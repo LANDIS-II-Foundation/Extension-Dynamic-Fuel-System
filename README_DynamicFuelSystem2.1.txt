@@ -7,7 +7,7 @@ Origin Date:		30 Apr 2017
 Final Date:		15 Jun 2017
 
 
-The purpose of the Extension-Dynamic-Fuels repository is SOLELY to produce the 
+The purpose of the Extension-Dynamic-Fuel-System repository is SOLELY to produce the 
 Landis.Extension.DynamicFuels.dll, a necessary library for the "Dynamic Fire Fuel System".  
 
 The "Dynamic Fire Fuel System" requires two libraries:
