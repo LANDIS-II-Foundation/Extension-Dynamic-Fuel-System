@@ -19,10 +19,10 @@
     <Product>Landis.Extension.DynamicFuels-v3</Product>
     <Copyright>Landis-II-Foundation</Copyright>
     <Version>3.0</Version>
-    <PackageTags>LANDIS-II;Landis;Extension;!{}</PackageTags>
+    <PackageTags>LANDIS-II;Landis;Extension;Dynamic Fuels</PackageTags>
     <Description>Dynamic Fuel System Extension</Description>
-    <PackageReleaseNotes>!</PackageReleaseNotes>
-    <FileVersion>7.0.0.0</FileVersion>
+    <PackageReleaseNotes></PackageReleaseNotes>
+    <FileVersion>7.0</FileVersion>
   </PropertyGroup>
 
   <ItemGroup>
@@ -40,6 +40,7 @@
       <HintPath>lib\Landis.Library.Metadata-v2.dll</HintPath>
     </Reference>
   </ItemGroup>
+  
 
 </Project>
 
