@@ -1,9 +1,7 @@
-using Landis.Core;
-
-namespace Landis.Extension.Fuels
+namespace Landis.Fuels
 {
     internal static class Model
     {
-        internal static ICore Core;
+        internal static PlugIns.ICore Core;
     }
 }
