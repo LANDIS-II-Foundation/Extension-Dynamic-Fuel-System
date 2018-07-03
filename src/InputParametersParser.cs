@@ -3,7 +3,7 @@
 
 using System.Collections.Generic;
 using System.Text;
-using Edu.Wisc.Forest.Flel.Util;
+using Landis.Utilities;
 using Landis.Core;
 
 namespace Landis.Extension.DynamicFuels
