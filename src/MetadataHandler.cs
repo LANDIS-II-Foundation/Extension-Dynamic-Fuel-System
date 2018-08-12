@@ -1,13 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-//using System.Data;
 using System.Text;
 using Landis.Library.Metadata;
 using Landis.Core;
-using Edu.Wisc.Forest.Flel.Util;
+using Landis.Utilities;
 using System.IO;
-using Flel = Edu.Wisc.Forest.Flel;
 
 namespace Landis.Extension.DynamicFuels
 {
@@ -84,7 +82,7 @@ namespace Landis.Extension.DynamicFuels
             string dir = Path.GetDirectoryName(path);
             if (!string.IsNullOrEmpty(dir))
             {
-                Flel.Util.Directory.EnsureExists(dir);
+                Landis.Utilities.Directory.EnsureExists(dir);
             }
 
             //return new StreamWriter(path);
